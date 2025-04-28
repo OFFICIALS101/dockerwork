@@ -20,7 +20,6 @@ This project is a simple web application built with **Python (Flask)**, containe
 | `app.py`        | Flask application |
 | `Dockerfile`    | Docker instructions |
 | `README.md`     | Project documentation |
-| `screenshots/`  | Evidence of work |
 
 ---
 
@@ -52,15 +51,7 @@ sudo docker run -d -p 80:5000 officials101/my-python-app
 
 ---
 
-## 🖼️ Screenshots
 
-| Description | Screenshot |
-|-------------|------------|
-| Docker Build | ![build](screenshots/build_success.png) |
-| Docker Push  | ![push](screenshots/dockerhub_push.png) |
-| Azure VM Running | ![azure](screenshots/azure_vm_running.png) |
-
----
 
 ## ⚡ Challenges Encountered
 
